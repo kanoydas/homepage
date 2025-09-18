@@ -1,0 +1,41 @@
+title: "Your Name"
+subtitle: "Your Academic Title"
+email: "your.email@example.com"
+description: "Research in mathematics, combinatorics, and related areas."
+baseurl: "" 
+url: "https://yourusername.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+author:
+  name: "Your Name"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Your academic position"
+  location: "Your Institution, Country"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/"
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
