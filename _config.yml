@@ -5,7 +5,10 @@ description: "Research in mathematics, combinatorics, and related areas."
 baseurl: "" 
 url: "https://yourusername.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
 
 author:
   name: "Your Name"
